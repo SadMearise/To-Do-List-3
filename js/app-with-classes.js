@@ -11,7 +11,6 @@ class List {
     }
 }
 
-//
 class Task {
     constructor() {
         this.CHECK = "fa-check-circle";
