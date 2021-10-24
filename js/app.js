@@ -37,7 +37,6 @@ const options = {
 elementDate.innerHTML = today.toLocaleDateString('en-US', options);
 
 
-
 document.addEventListener('keyup', function(event) {
     if (event.code === 'Enter') {
         const toDo = input.value;
